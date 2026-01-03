@@ -1,18 +1,6 @@
-gz-sensors10 (10.0.0-1~noble) noble; urgency=medium
-
-  * gz-sensors10 10.0.0-1 release
-
- -- Carlos Aguero <caguero@osrfoundation.org>  Mon, 29 Sep 2025 14:37:23 +0200
-
-gz-sensors10 (10.0.0~pre1-1~noble) noble; urgency=medium
-
-  * gz-sensors10 10.0.0~pre1-1 release
-
- -- Ian Chen <ichen@openrobotics.org>  Tue, 26 Aug 2025 22:26:30 +0000
-
-gz-sensors10 (9.999.999-1~noble) noble; urgency=medium
+gz-sensors11 (10.999.999-1~noble) noble; urgency=medium
 
   * Stub to be removed after first entry
 
- -- Carlos Aguero <caguero@openrobotics.org>  Tue, 08 Oct 2024 20:59:51 +0200
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Sat, 03 Jan 2026 00:29:55 +0000
 
