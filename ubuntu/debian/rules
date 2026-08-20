@@ -18,6 +18,7 @@ override_dh_install:
 	$(RM) debian/libgz-sensors*-core-dev/usr/include/gz/sensors*/gz/sensors/Altimeter*.hh
 	$(RM) debian/libgz-sensors*-core-dev/usr/include/gz/sensors*/gz/sensors/BoundingBoxCamera*.hh
 	$(RM) debian/libgz-sensors*-core-dev/usr/include/gz/sensors*/gz/sensors/Camera*.hh
+	$(RM) debian/libgz-sensors*-core-dev/usr/include/gz/sensors*/gz/sensors/CpuLidarSensor*.hh
 	$(RM) debian/libgz-sensors*-core-dev/usr/include/gz/sensors*/gz/sensors/DepthCamera*.hh
 	$(RM) debian/libgz-sensors*-core-dev/usr/include/gz/sensors*/gz/sensors/DopplerVelocityLog*.hh
 	$(RM) debian/libgz-sensors*-core-dev/usr/include/gz/sensors*/gz/sensors/GpuLidarSensor*.hh
